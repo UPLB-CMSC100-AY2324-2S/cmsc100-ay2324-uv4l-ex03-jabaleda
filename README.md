@@ -14,5 +14,5 @@ In here:
         - storePassword()
     validateMatch() and reversePassword() supplements the required functionality for storePassword().
 
-    In storePassword, an object is initialized first, with keys 'name' and 'newpassword'. The passed passwords are checked whether they match and if they do, it is reversed and then set as the newpassword of the object. Otherwise, the property takes on the value of the first password passed to the function. It then returns the created object.
+In storePassword, an object is initialized first, with keys 'name' and 'newpassword'. The passed passwords are checked whether they match and if they do, it is reversed and then set as the newpassword of the object. Otherwise, the property takes on the value of the first password passed to the function. It then returns the created object.
     
