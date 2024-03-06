@@ -4,9 +4,10 @@ Title: Simulate a password validation program in JavaScript
 Type: Individual Assessment
 Score: (15 points)
 
-**Name:** Baleda, Julianne Paulene A.
-**Section:** UV4L
+**Name:** Baleda, Julianne Paulene A. <br/>
+**Section:** UV4L <br/>
 
+## Description
 In here:
     Three functions are present in the file, namely:
         - validateMatch()
